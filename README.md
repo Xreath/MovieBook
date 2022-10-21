@@ -1,3 +1,3 @@
 # MovieBook
 
-## Omdb Service & SwiftUI 
+## OMDb API & SwiftUI 
