@@ -1,3 +1,4 @@
 # MovieBook
 
-## OMDb API & SwiftUI & MVVM With Clean Architecture
+## OMDb API & SwiftUI
+### MVVM With Clean Architecture
